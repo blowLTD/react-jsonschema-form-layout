@@ -1,6 +1,6 @@
 {
-  "name": "react-jsonschema-form-layout",
-  "version": "1.0.4",
+  "name": "@blowltd/react-jsonschema-form-layout",
+  "version": "1.0.5",
   "description": "react-jsonschema-form-layout React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -48,7 +48,7 @@
   "author": "Mario Scheliga <marsch.js@gmail.com>",
   "homepage": "",
   "license": "MIT",
-  "repository": "https://github.com/audibene-labs/react-jsonschema-form-layout",
+  "repository": "https://github.com/blowLTD/react-jsonschema-form-layout",
   "keywords": [
     "react-component"
   ],
