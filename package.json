@@ -23,11 +23,11 @@
   "dependencies": {
     "codecov.io": "^0.1.6",
     "coveralls": "^2.11.16",
-    "react-bootstrap": " 0.30.7",
-    "react-jsonschema-form": "0.43.0"
+    "react-bootstrap": "^0.32.4"
   },
   "peerDependencies": {
-    "react": "15.x"
+    "react": "16.x",
+    "react-jsonschema-form": "1.x"
   },
   "devDependencies": {
     "babel-eslint": "7.1.1",
